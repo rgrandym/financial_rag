@@ -31,7 +31,11 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+**Modular Architecture**: All functions/classes MUST be ≤50 lines. Complex operations decomposed into smaller units.  
+**Environment**: Using `rag-transformers` conda environment or pip fallback documented.  
+**Testing**: Manual testing approach confirmed - no automated test suite required.  
+**Branching**: Feature branch workflow established - no direct commits to main.  
+**Documentation**: Quarto setup confirmed for scientific report generation.
 
 ## Project Structure
 
