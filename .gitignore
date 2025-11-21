@@ -80,25 +80,6 @@ ipython_config.py
 .apdisk
 
 
-# Linux System Files
-*~
-.fuse_hidden*
-.directory
-.Trash-*
-.nfs*
-
-# Git specific
-.git/
-.gitattributes
-
-# System caches
-.cache/
-.tmp/
-.temp/
-.sass-cache/
-.connect.lock
-.coverage
-
 # Editor and IDE hidden files
 .vscode/
 .idea/
