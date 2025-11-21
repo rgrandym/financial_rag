@@ -6,6 +6,8 @@ models/
 chroma_store/
 .specify/
 data/
+.github/
+
 
 # Python
 __pycache__/
